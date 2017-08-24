@@ -2,6 +2,8 @@
 
 
 # TODO: When there are more than one Aces, 1 - 11 rule doesnt seem to work
+# TODO: Split, Double Down, not built
+# TODO: GUI
 
 
 import random
